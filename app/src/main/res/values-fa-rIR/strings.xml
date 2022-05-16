@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">همراه من</string>
+    <string name="txtphone">شماره مورد نظر را وارد کنید</string>
+    <string name="txtbtnsub">دریافت کد فعالسازی</string>
+    <string name="txthint">برای ورود شماره همراه خود را وارد کنید</string>
+    <string name="txtbtnlogin">ورود به برنامه</string>
+    <string name="btnrezerv">رزرو بسته</string>
+    <string name="btnkhbaste">خرید بسته</string>
+    <string name="txtrezerv">هنوز بسته ای رزرو نشده است!</string>
+    <string name="TXT1">1 گیگ روزانه \n قیمت 6500</string>
+    <string name="TXT2">2 گیگ روزانه \n قیمت 10000</string>
+    <string name="TXT3">5 گیگ روزانه \n قیمت 22000</string>
+    <string name="TXT4">8 گیگ ماهانه \n قیمت 26000</string>
+    <string name="TXT5">12 گیگ ماهانه \n قیمت 35000</string>
+    <string name="TXT6">15 گیگ ماهانه \n قیمت 40000</string>
+    <string name="TXT7">18 گیگ ماهانه \n قیمت 48000</string>
+    <string name="TXT8">22 گیگ ماهانه \n قیمت 55000</string>
+    <string name="TXT9">28 گیگ ماهانه \n قیمت 62000</string>
+    <string name="TXT10">35 گیگ ماهانه \n قیمت 75000</string>
+    <string name="TXT11">48 گیگ ماهانه \n قیمت 89000</string>
+    <string name="TXT12">58 گیگ ماهانه \n قیمت 99000</string>
+    <string name="TXT13">110 گیگ بلندمدت \n قیمت 155000</string>
+
+</resources>

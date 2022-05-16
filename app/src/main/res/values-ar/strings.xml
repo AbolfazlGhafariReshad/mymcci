@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">معي</string>
+    <string name="txtphone">أدخل الرقم المطلوب</string>
+    <string name="txtbtnsub">احصل على رمز التفعيل</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="txthint">أدخل رقم هاتفك المحمول للدخول</string>
+    <string name="txtbtnlogin">تسجيل الدخول إلى البرنامج</string>
+    <string name="todo2" translatable="false">TODO</string>
+    <string name="btnrezerv">حجز</string>
+    <string name="btnkhbaste">يشتري</string>
+    <string name="txtrezerv">لم يتم حجز أي حزمة حتى الآن!</string>
+    <string name="TXT1">1 أزعج يوميا \n قیمت 6500</string>
+    <string name="TXT2">2 أزعج يوميا \n قیمت 10000</string>
+    <string name="TXT3">5 أزعج يوميا \n قیمت 22000</string>
+    <string name="TXT4">8 أزعج شهريا \n قیمت 26000</string>
+    <string name="TXT5">12 أزعج شهريا \n قیمت 35000</string>
+    <string name="TXT6">15 أزعج شهريا \n قیمت 40000</string>
+    <string name="TXT7">18 أزعج شهريا \n قیمت 48000</string>
+    <string name="TXT8">22 أزعج شهريا \n قیمت 55000</string>
+    <string name="TXT9">28 أزعج شهريا \n قیمت 62000</string>
+    <string name="TXT10">35 أزعج شهريا \n قیمت 75000</string>
+    <string name="TXT11">48 أزعج شهريا \n قیمت 89000</string>
+    <string name="TXT12">58 أزعج شهريا \n قیمت 99000</string>
+    <string name="TXT13">110 أزعج وقت طویل \n قیمت 155000</string>
+</resources>

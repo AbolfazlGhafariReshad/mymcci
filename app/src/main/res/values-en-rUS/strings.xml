@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">my mci</string>
+    <string name="txtphone">Enter the desired phone number</string>
+    <string name="txtbtnsub">Get activation code</string>
+    <string name="txthint">Enter your mobile number to enter</string>
+    <string name="txtbtnlogin">Login</string>
+    <string name="btnrezerv">Reservation</string>
+    <string name="btnkhbaste">Buy</string>
+    <string name="txtrezerv">The package has not been booked yet!</string>
+    <string name="TXT1">1GIG DAILY \n 6500T</string>
+    <string name="TXT2">2GIG DAILY \n 10000T</string>
+    <string name="TXT3">5 GIG DAILY \n 22000T</string>
+    <string name="TXT4">8 GIG MONTH \n 26000T</string>
+    <string name="TXT5">12 GIG MONTH \n 35000T</string>
+    <string name="TXT6">15 GIG MONTH \n 40000T</string>
+    <string name="TXT7">18 GIG MONTH \n 48000T</string>
+    <string name="TXT8">22 GIG MONTH\n 55000T</string>
+    <string name="TXT9">28 GIG MONTH \n 62000T</string>
+    <string name="TXT10">35 GIG MONTH \n 75000T</string>
+    <string name="TXT11">48 GIG MONTH \n 89000T</string>
+    <string name="TXT12">58 GIG MONTH \n 99000T</string>
+    <string name="TXT13">110 GIG \n 155000T</string>
+
+</resources>
